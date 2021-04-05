@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Thời Khóa Biểu</title>
+</head>
+<body>
+<h1> Thời Khóa Biểu</h1>
+<table border="1" width="800">
+    <tr>
+       <td rowspan="2"><h3>Thứ</h3></td>
+        <td colspan="2"><h3>Hoạt động</h3></td>
+    </tr>
+    <td><h3>Sáng</h3></td>
+    <td><h3>Chiều</h3></td>
+    <tr>
+        <td>Thứ 2</td>
+        <td>Thể dục</td>
+        <td>DH trò chơi mới</td>
+
+    </tr>
+    <tr>
+        <td>Thứ 3</td>
+        <td>Nhận biết tập nói</td>
+        <td>Rèn luyện nề nếp, kỹ năng sống</td>
+    </tr>
+    <tr>
+        <td>Thứ 4</td>
+        <td>Âm nhạc</td>
+        <td>Vui chơi</td>
+
+    </tr>
+    <tr>
+        <td>Thứ 5</td>
+        <td>Văn học</td>
+        <td>Nhận biết giá trị cuộc sống</td>
+    </tr>
+
+</table>
+
+</body>
+</html>
